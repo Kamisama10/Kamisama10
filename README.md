@@ -29,6 +29,8 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmNwODVncjZuMHhvbzRtNmltdjJwbjBnNDdzdGhndGc5a2VzN3lndCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26DoiqmYcxgFICb3G/giphy.gif" width="200" alt="math animation"/>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJjMWY1dHJiNjJ6cjdxMWYzdTl3Yng3ZzVtcThvaDcwNXRqOWo5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2R0flMBPtMGU0wbm/giphy.gif" width="200" alt="numbers animation"/>
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGxtcWY3MnBlcmZyMnNlM2djYm95eGxldnV6dzM3ODZycTVkbHJtYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zgduo4kWRRDVK/giphy.gif" width="200" alt="equations animation"/>
+   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFhOHFyOG1xaTBlODJlbGJjeWwwYThpN3JqMWl2ZXI2bDA3OHlsYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vRg13bg9FdLYK8E/giphy.gif" width="200" alt="math animation"/>
+
 </div>
 
 ## 🛠 Tecnologias
