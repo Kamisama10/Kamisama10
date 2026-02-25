@@ -1,4 +1,4 @@
-# 👋 Hi, I'm a Python Backend Developer
+<img width="374" height="374" alt="image" src="https://github.com/user-attachments/assets/1745d2e0-8da3-42a0-9ff4-6a9dd4710eb1" /># 👋 Hi, I'm a Python Backend Developer
 
 
 💻 Backend Developer specialized in Python  
@@ -7,7 +7,7 @@
 ## ✨ Matemática em Movimento
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="200" alt="math animation"/>
+  <img src="[https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif](https://media1.tenor.com/m/MdDOyQ2KS_8AAAAd/punch-monkey.gif)" width="200" alt="math animation"/>
   <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="200" alt="numbers animation"/>
   <img src="https://media.giphy.com/media/l4FGGafcOHmrlQxG0/giphy.gif" width="200" alt="equations animation"/>
 </div>
