@@ -1,37 +1,7 @@
-<img width="374" height="374" alt="image" src="https://github.com/user-attachments/assets/1745d2e0-8da3-42a0-9ff4-6a9dd4710eb1" /># 👋 Hi, I'm a Python Backend Developer
-
+👋 Hi, I'm a Python Backend Developer
 
 💻 Backend Developer specialized in Python  
 🚀 Interested in building scalable and secure systems  
-
-## ✨ Matemática em Movimento
-
-<div align="center">
-  <img src="[https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif](https://media1.tenor.com/m/MdDOyQ2KS_8AAAAd/punch-monkey.gif)" width="200" alt="math animation"/>
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="200" alt="numbers animation"/>
-  <img src="https://media.giphy.com/media/l4FGGafcOHmrlQxG0/giphy.gif" width="200" alt="equations animation"/>
-</div>
-
-
-<!-- Snake Game Repo View -->
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-## 🧑‍💻 Sobre Mim
-
-🎓 Formada em Análise e Desenvolvimento de Sistemas  
-🐍 Desenvolvimento Backend com Python    
-📊 Data Science e BI
-  
-## 🛠 Tecnologias
-
-**Backend & APIs** Python, Flask, FastAPI, Django, Django REST Framework  
-**Databases** MySQL, SQLite, MongoDB  
-**Data Science & BI** Python, Pandas, NumPy, Power BI  
-**DevOps & Cloud** Docker, AWS, Azure, Git, GitHub Actions, CI/CD  
-**Frontend** HTML, CSS  
-**Arquitetura e Microsserviços** Design Patterns, Microsserviços, Kafka, RabbitMQ, Kubernetes, Helm  
 
 # 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -49,6 +19,28 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Data Science](https://img.shields.io/badge/Data%20Science-FF6F61?style=for-the-badge&logo=apache&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
+
+<!-- Snake Game Repo View -->
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="200" alt="math animation"/>
+  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="200" alt="numbers animation"/>
+  <img src="https://media.giphy.com/media/l4FGGafcOHmrlQxG0/giphy.gif" width="200" alt="equations animation"/>
+</div>
+
+## 🛠 Tecnologias
+
+**Backend & APIs** Python, Flask, FastAPI, Django, Django REST Framework  
+**Databases** MySQL, SQLite, MongoDB  
+**Data Science & BI** Python, Pandas, NumPy, Power BI  
+**DevOps & Cloud** Docker, AWS, Azure, Git, GitHub Actions, CI/CD  
+**Frontend** HTML, CSS  
+**Arquitetura e Microsserviços** Design Patterns, Microsserviços, Kafka, RabbitMQ, Kubernetes, Helm  
+
+
 
 
 
