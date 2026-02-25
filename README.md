@@ -1,40 +1,27 @@
 # 👋 Hi, I'm a Python Backend Developer
 
 💻 Backend Developer specialized in Python  
-📚 Always learning about APIs, Databases and Software Architecture  
 🚀 Interested in building scalable and secure systems  
-
----
 
 ## 🧑‍💻 Sobre Mim
 
 - 🎓 Formada em Análise e Desenvolvimento de Sistemas  
 - 🐍 Desenvolvimento Backend com Python    
 - 📊 Data Science e BI
-
----
-
+  
 ## 🛠 Tecnologias
 
-**Backend & APIs**
-- Python, Flask, FastAPI, Django, Django REST Framework  
+**Backend & APIs** Python, Flask, FastAPI, Django, Django REST Framework  
 
-**Databases**
-- MySQL, SQLite, MongoDB  
+**Databases** MySQL, SQLite, MongoDB  
 
-**Data Science & BI**
-- Python, Pandas, NumPy, Power BI  
+**Data Science & BI** Python, Pandas, NumPy, Power BI  
 
-**DevOps & Cloud**
-- Docker, AWS, Azure, Git, GitHub Actions, CI/CD  
+**DevOps & Cloud** Docker, AWS, Azure, Git, GitHub Actions, CI/CD  
 
-**Frontend**
-- HTML, CSS  
+**Frontend** HTML, CSS  
 
-**Arquitetura e Microsserviços**
-- Design Patterns, Microsserviços, Kafka, RabbitMQ, Kubernetes, Helm  
-
----
+**Arquitetura e Microsserviços** Design Patterns, Microsserviços, Kafka, RabbitMQ, Kubernetes, Helm  
 
 # 💻 Tech Stack
 
@@ -53,8 +40,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Data Science](https://img.shields.io/badge/Data%20Science-FF6F61?style=for-the-badge&logo=apache&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
-
----
 
 <!-- Snake Game Repo View -->
 <div align="center">
