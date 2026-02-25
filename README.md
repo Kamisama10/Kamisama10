@@ -30,8 +30,6 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJjMWY1dHJiNjJ6cjdxMWYzdTl3Yng3ZzVtcThvaDcwNXRqOWo5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2R0flMBPtMGU0wbm/giphy.gif" width="200" alt="numbers animation"/>
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGxtcWY3MnBlcmZyMnNlM2djYm95eGxldnV6dzM3ODZycTVkbHJtYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zgduo4kWRRDVK/giphy.gif" width="200" alt="equations animation"/>
    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFhOHFyOG1xaTBlODJlbGJjeWwwYThpN3JqMWl2ZXI2bDA3OHlsYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vRg13bg9FdLYK8E/giphy.gif" width="200" alt="math animation"/>
-   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Y2eTJ3dnF2bWE3bWJodWlqbGt0cTl1a3AxcGZvNjRjMDV0M211YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vR4L50gVNsA4HNm/giphy.gif" width="200" alt="math animation"/>
-   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3QyNzRrdHEzZnA4azNidzdybngyaDYxNjQ5MzFlam00anlxYnVueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYzuMvUJJcqzND2/giphy.gif" width="200" alt="math animation"/>
    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGoyM2NyMjc2cDI3bms4NGkwMjNmYXgyaTN2dG95ZzlmOWhnNm82MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VGnLi45g080LWlCtdi/giphy.gif" width="200" alt="math animation"/>
 
 </div>
