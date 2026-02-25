@@ -26,9 +26,9 @@
 </div>
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmNwODVncjZuMHhvbzRtNmltdjJwbjBnNDdzdGhndGc5a2VzN3lndCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26DoiqmYcxgFICb3G/giphy.gif)" width="200" alt="math animation"/>
-  <img src="[https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJjMWY1dHJiNjJ6cjdxMWYzdTl3Yng3ZzVtcThvaDcwNXRqOWo5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2R0flMBPtMGU0wbm/giphy.gif)" width="200" alt="numbers animation"/>
-  <img src="[https://media.giphy.com/media/l4FGGafcOHmrlQxG0/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGxtcWY3MnBlcmZyMnNlM2djYm95eGxldnV6dzM3ODZycTVkbHJtYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zgduo4kWRRDVK/giphy.gif)" width="200" alt="equations animation"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmNwODVncjZuMHhvbzRtNmltdjJwbjBnNDdzdGhndGc5a2VzN3lndCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26DoiqmYcxgFICb3G/giphy.gif" width="200" alt="math animation"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJjMWY1dHJiNjJ6cjdxMWYzdTl3Yng3ZzVtcThvaDcwNXRqOWo5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2R0flMBPtMGU0wbm/giphy.gif" width="200" alt="numbers animation"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGxtcWY3MnBlcmZyMnNlM2djYm95eGxldnV6dzM3ODZycTVkbHJtYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zgduo4kWRRDVK/giphy.gif" width="200" alt="equations animation"/>
 </div>
 
 ## 🛠 Tecnologias
