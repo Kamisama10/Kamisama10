@@ -1,7 +1,17 @@
 # 👋 Hi, I'm a Python Backend Developer
 
+
 💻 Backend Developer specialized in Python  
 🚀 Interested in building scalable and secure systems  
+
+## ✨ Matemática em Movimento
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="200" alt="math animation"/>
+  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="200" alt="numbers animation"/>
+  <img src="https://media.giphy.com/media/l4FGGafcOHmrlQxG0/giphy.gif" width="200" alt="equations animation"/>
+</div>
+
 
 <!-- Snake Game Repo View -->
 <div align="center">
