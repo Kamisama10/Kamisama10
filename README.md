@@ -1,16 +1,15 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left">My name is Kamila Lima and I'm a Backend Developer specialized in Python, from Brazil</p>
+<p align="left">My name is Kamila and I'm a Python Backend Developer, from Brazil</p>
 
 ---
 
 <h2 align="left">About me</h2>
 
 <p align="left">
-✨ Creating bugs since ...<br>
-📚 I'm currently learning ...<br>
-🎯 Goals: ...<br>
-🎲 Fun fact: ...
+✨ Backend Developer specialized in Python<br>
+📚 Interested in building scalable and secure systems<br>
+🎲 Fun fact: I love coffee, lots of Coca-Cola, and watching anime
 </p>
 
 ---
@@ -51,16 +50,18 @@
 
 ---
 
-<h2 align="left">Pacman Contribution Graph</h2>
+<!-- Snake Game Repo View -->
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
-```html
-<!-- Pacman Contribution Graph embutido -->
-<svg width="800" height="100" xmlns="http://www.w3.org/2000/svg">
-  <!-- Exemplo simplificado do Pacman -->
-  <circle cx="50" cy="50" r="40" fill="yellow" />
-  <polygon points="50,50 80,30 80,70" fill="white" />
-  <!-- Você pode gerar o SVG completo do pacman-action e colar aqui -->
-</svg>
+**Backend & APIs** Python, Flask, FastAPI, Django, Django REST Framework  
+**Databases** MySQL, SQLite, MongoDB  
+**Data Science & BI** Python, Pandas, NumPy, Power BI  
+**DevOps & Cloud** Docker, AWS, Azure, Git, GitHub Actions, CI/CD  
+**Frontend** HTML, CSS  
+**Arquitetura e Microsserviços** Design Patterns, Microsserviços, Kafka, RabbitMQ, Kubernetes, Helm  
+
 
 
 
