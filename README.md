@@ -1,9 +1,10 @@
 # 👋 Hi, I'm a Python Backend Developer
 
-💻 Backend Developer specialized in Python  
-🚀 Interested in building scalable and secure systems  
+Backend Developer specialized in Python  
+Interested in building scalable and secure systems  
 
-# 💻 Tech Stack
+
+# 💻 Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -33,7 +34,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGoyM2NyMjc2cDI3bms4NGkwMjNmYXgyaTN2dG95ZzlmOWhnNm82MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VGnLi45g080LWlCtdi/giphy.gif" width="150" alt="math animation"/>
 </div>
 
-## 🛠 Tecnologias
+# 🛠 Tecnologias
 
 **Backend & APIs** Python, Flask, FastAPI, Django, Django REST Framework  
 **Databases** MySQL, SQLite, MongoDB  
