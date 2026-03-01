@@ -49,11 +49,6 @@
 
 ---
 
-<!-- Snake Game Repo View -->
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
 **Backend & APIs** Python, Flask, FastAPI, Django, Django REST Framework  
 **Databases** MySQL, SQLite, MongoDB  
 **Data Science & BI** Python, Pandas, NumPy, Power BI  
